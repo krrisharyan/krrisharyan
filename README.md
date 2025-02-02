@@ -25,6 +25,6 @@ I'm a developer who likes to build my own version of the digital world. I love t
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrisharyan&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
-  <img src="https://streak-stats.demolab.com?user=itskrisverse&hide_border=true&background=EBEBEB00&stroke=5d96f0&ring=5d96f0&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5d96f0">
+  <img src="https://streak-stats.demolab.com?user=krrisharyan&hide_border=true&background=EBEBEB00&stroke=5d96f0&ring=5d96f0&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5d96f0">
   <br/>
 </p>
